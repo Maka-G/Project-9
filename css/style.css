@@ -27,6 +27,7 @@ li{
 	background-position: center;
  	background-repeat: no-repeat;
   	background-size: cover;
+  	background-attachment: fixed;
   	position: relative;
   	height: 900px;
 	width: 100%;
@@ -63,7 +64,7 @@ h1{
 .d-section{
 	display: inline-block;
 	margin-top: 355px;
-	width: 50%;
+	
 	padding-left: 85px;
 }
 h2{
@@ -72,7 +73,6 @@ h2{
 	font-size: 50px;
 	color: #000000;
 	font-weight: lighter;
-
 }
 .text{
 	padding-top: 25px;
@@ -81,11 +81,14 @@ h2{
 	font-weight: 400px;
 }
 .d-img{
+	background-image: url('../img/img1.svg');
 	margin-top: 355px;
 	height: 600px;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 .d-3{
-
 	width: 100%;
 	background-color: #FAFAFA;
 }
@@ -123,7 +126,6 @@ h3{
 	background-color: #ffffff;
 	border: #CECECE solid 0.5px;
 	padding: 64px;
-
 }
 .ellipse1{
 	background: url('../img/icon1.svg');
