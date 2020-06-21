@@ -85,6 +85,7 @@ h2{
 	height: 600px;
 }
 .d-3{
+
 	width: 100%;
 	background-color: #FAFAFA;
 }
@@ -106,4 +107,109 @@ h3{
 	padding-left: 280px;
 	padding-right: 280px;
 	padding-bottom: 70px;
+}
+.d-block{
+	display: flex;
+	justify-content: space-around;
+	padding-left: 55px;
+	padding-right: 55px;
+	padding-bottom: 30px;
+	background-color: #FAFAFA;
+}
+.box{
+
+	height: 374px;
+	width: 372px;
+	background-color: #ffffff;
+	border: #CECECE solid 0.5px;
+	padding: 64px;
+
+}
+.ellipse1{
+	background: url('../img/icon1.svg');
+	background-position: center;
+ 	background-repeat: no-repeat;
+  	height: 32px;
+	margin: 0 77.5px;
+	display: inline-block;
+	height: 88px;
+	width: 88px;
+	border-radius: 50%;
+	background-color: #325DFF;
+}
+.ellipse2{
+	background: url('../img/icon2.svg');
+	background-position: center;
+ 	background-repeat: no-repeat;
+  	height: 32px;
+	margin: 0 77.5px;
+	display: inline-block;
+	height: 88px;
+	width: 88px;
+	border-radius: 50%;
+	background-color: #325DFF;
+}
+.ellipse3{
+	background: url('../img/icon3.svg');
+	background-position: center;
+ 	background-repeat: no-repeat;
+  	height: 32px;
+	margin: 0 77.5px;
+	display: inline-block;
+	height: 88px;
+	width: 88px;
+	border-radius: 50%;
+	background-color: #325DFF;
+}
+.ellipse4{
+	background: url('../img/icon4.svg');
+	background-position: center;
+ 	background-repeat: no-repeat;
+  	height: 32px;
+	margin: 0 77.5px;
+	display: inline-block;
+	height: 88px;
+	width: 88px;
+	border-radius: 50%;
+	background-color: #325DFF;
+}
+.ellipse5{
+	background: url('../img/icon5.svg');
+	background-position: center;
+ 	background-repeat: no-repeat;
+  	height: 32px;
+	margin: 0 77.5px;
+	display: inline-block;
+	height: 88px;
+	width: 88px;
+	border-radius: 50%;
+	background-color: #325DFF;
+}
+.ellipse6{
+	background: url('../img/icon6.svg');
+	background-position: center;
+ 	background-repeat: no-repeat;
+  	height: 32px;
+	margin: 0 77.5px;
+	display: inline-block;
+	height: 88px;
+	width: 88px;
+	border-radius: 50%;
+	background-color: #325DFF;
+}
+h5{
+	color: black;
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	text-align: center;
+	font-size: 18px;
+	padding-top: 30px;
+}
+.text3{
+	color: black;
+	font-family: 'Poppins', sans-serif;
+	font-size: 16px;
+	font-weight: lighter;
+	text-align: center;
+	padding-top: 30px;
 }
